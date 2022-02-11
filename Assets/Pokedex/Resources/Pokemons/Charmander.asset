@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee7f0afb3b2ef5a4bbe162beb20fff08, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  pokedexNumber: 4
+  photo: {fileID: 21300000, guid: 8d34d2a567c85c34f9c55dd26776b008, type: 3}
+  pokemonName: Charmander
+  species: "Lizard Pok\xE9mon"
+  description: Obviously prefers hot places. When it rains, steam is said to spout
+    from the tip of its tail.
+  pokemonTypes: 04000000
+  abilities:
+  - Blaze
+  hiddenAbilities:
+  - Solar Power
+  hp: 39
+  attack: 52
+  defense: 43
+  spAttack: 60
+  spDefense: 50
+  speed: 65
+  maxHp: 282
+  maxAttack: 223
+  maxDefense: 203
+  maxSpAttack: 240
+  maxSpDefense: 218
+  maxSpeed: 251
